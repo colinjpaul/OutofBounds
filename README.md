@@ -1,2 +1,2 @@
-# OutofBounds
+# Out of Bounds
 GOLF SCORE TRACKING & PREDICTION APP
