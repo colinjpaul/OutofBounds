@@ -16,8 +16,6 @@ cur.execute('''CREATE TABLE IF NOT EXISTS scores(Hole INT UNIQUE, Par INT, Score
 # cur.execute('''INSERT INTO scores(Hole, Par, Score)
 #             VALUES(?,?,?)''', (hole, par, score))
 
-
-
 cur.execute('''SELECT hole, par, score FROM scores''')
 # one_hole = cur.fetchone()
 # print(one_hole[2])
