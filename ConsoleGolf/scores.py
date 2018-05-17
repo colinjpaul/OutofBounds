@@ -1,5 +1,11 @@
 import sqlite3
+import os
+import pandas as pd
 
+home = os.path.dirname("C:/Users/cpaul/Documents/GitHub/OutofBounds/")
+abs_file_path = os.path.join(home, "Scorecard.csv")
+
+df = pd.read_csv(abs_file_path)
 
 db = sqlite3.connect('scorecard.sqlite')
 cur = db.cursor()
