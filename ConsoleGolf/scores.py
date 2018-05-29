@@ -7,14 +7,18 @@ abs_file_path = os.path.join(home, "Scorecard.csv")
 #
 df = pd.read_csv(abs_file_path)
 
-hole = df.Hole(0)
+print(df['Hole'].values())
 
 
 
-db = sqlite3.connect('scorecard.sqlite')
-cur = db.cursor()
+# print(df['Hole'][0])
 
-cur.execute('''CREATE TABLE IF NOT EXISTS scores(Hole INT UNIQUE, Par INT, Score INT)''')
+#hole = df.Hole(1)
+
+# db = sqlite3.connect('scorecard.sqlite')
+# cur = db.cursor()
+#
+# cur.execute('''CREATE TABLE IF NOT EXISTS scores(Hole INT UNIQUE, Par INT, Score INT)''')
 
 # cur.execute('''INSERT INTO scores(Hole, Par, Score)
 #             VALUES(?,?,?)''', (hole, par, score))
