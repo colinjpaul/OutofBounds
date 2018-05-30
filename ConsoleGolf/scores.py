@@ -7,7 +7,8 @@ abs_file_path = os.path.join(home, "Scorecard.csv")
 #
 df = pd.read_csv(abs_file_path)
 
-print(df['Hole'].values())
+
+
 
 
 
