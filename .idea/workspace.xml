@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d7ffb99-e6c4-4b3b-9e81-f5acad50a628" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Sandbox/flight _data/test_flight.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flights.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleGolf/score_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleGolf/score_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Scorecard.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Scorecard.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,44 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="scores.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ConsoleGolf/scores.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="score_analysis.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ConsoleGolf/score_analysis.ipynb">
+      <file leaf-file-name="test_flight.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sandbox/flight _data/test_flight.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="23">
-                <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Scorecard.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/Scorecard.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -75,7 +45,10 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Data/score_analysis.ipynb" />
         <option value="$PROJECT_DIR$/ConsoleGolf/scores.py" />
+        <option value="$PROJECT_DIR$/Data/Scorecard.csv" />
         <option value="$PROJECT_DIR$/ConsoleGolf/score_analysis.ipynb" />
+        <option value="$PROJECT_DIR$/Sandbox/flight_data.ipynb" />
+        <option value="$PROJECT_DIR$/Sandbox/flight _data/test_flight.ipynb" />
       </list>
     </option>
   </component>
@@ -115,7 +88,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cpaul\Documents\GitHub\OutofBounds\Sandbox" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cpaul\Documents\GitHub\OutofBounds\Sandbox\flight _data" />
       <recent name="C:\Users\cpaul\Documents\GitHub\OutofBounds\Data" />
     </key>
   </component>
@@ -187,16 +164,24 @@
       <option name="presentableId" value="Default" />
       <updated>1526387082898</updated>
     </task>
+    <task id="LOCAL-00001" summary="getting there with data frames">
+      <created>1527867099141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527867099141</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10432034" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10432034" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1202346" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38611925" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32944608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -215,6 +200,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="getting there with data frames" />
+    <option name="LAST_COMMIT_MESSAGE" value="getting there with data frames" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <default-breakpoints>
@@ -228,6 +217,47 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Sandbox/flight _data/test_flight.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleGolf/scores.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Scorecard.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleGolf/score_analysis.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ConsoleGolf/scores.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -559,8 +589,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ConsoleGolf/scores.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        <state relative-caret-position="299">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
@@ -569,8 +599,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Data/Scorecard.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        <state relative-caret-position="299">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -578,6 +608,23 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sandbox/flight_data.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleGolf/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sandbox/flight _data/test_flight.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
