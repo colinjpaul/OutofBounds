@@ -12,6 +12,7 @@ cur = db.cursor()
 
 cur.execute('''CREATE TABLE IF NOT EXISTS scores(Hole INT UNIQUE, Par INT, Score INT)''')
 
+
 # cur.execute('''INSERT INTO scores(Hole, Par, Score)
 #             VALUES(?,?,?)''', (hole, par, score))
 #
