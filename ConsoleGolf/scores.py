@@ -12,7 +12,7 @@ cur = db.cursor()
 
 cur.execute('''CREATE TABLE IF NOT EXISTS scores(Hole INT UNIQUE, Par INT, Score INT)''')
 
-print("changes from rebase_test branch")
+print("new changes from branch 7")
 
 
 # cur.execute('''INSERT INTO scores(Hole, Par, Score)
