@@ -12,7 +12,7 @@ cur = db.cursor()
 
 cur.execute('''CREATE TABLE IF NOT EXISTS scores(Hole INT UNIQUE, Par INT, Score INT)''')
 
-print("new changes from master")
+print("new changes from 3rd september)
 
 
 # cur.execute('''INSERT INTO scores(Hole, Par, Score)
