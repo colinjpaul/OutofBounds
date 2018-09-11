@@ -1,4 +1,4 @@
-*.xml
 *.sqlite
 .idea/workspace.xml
 
+.idea/vcs.xml
