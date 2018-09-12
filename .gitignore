@@ -1,6 +1,5 @@
 *.sqlite
 .idea/workspace.xml
-
 .idea/vcs.xml
 .idea/misc.xml
 .idea/OutofBounds.iml
