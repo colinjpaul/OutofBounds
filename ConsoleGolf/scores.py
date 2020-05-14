@@ -2,12 +2,13 @@ import sqlite3
 import os
 import pandas as pd
 
-home = os.path.dirname("C:/Users/cpaul/Documents/GitHub/OutofBounds/Data/")
+home = os.path.dirname("c:/Users/cjadmin/Documents/GitHub/OutofBounds/Data/")
+
 abs_file_path = os.path.join(home, "Scorecard.csv")
-#
+
 df = pd.read_csv(abs_file_path)
 
-db = sqlite3.connect('scorecard.sqlite')
+db = sqlite3.connect('Data/scorecard.sqlite')
 cur = db.cursor()
 
 cur.execute('''CREATE TABLE IF NOT EXISTS scores(Hole INT UNIQUE, Par INT, Score INT)''')
