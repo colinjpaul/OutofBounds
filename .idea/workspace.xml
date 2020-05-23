@@ -2,140 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d7ffb99-e6c4-4b3b-9e81-f5acad50a628" name="Default" comment="testing rebasing">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/OutofBounds.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OutofBounds.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleGolf/score_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleGolf/score_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleGolf/scorecard.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleGolf/scores.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleGolf/scores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/score_history.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Data/score_history.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design/python at work and home.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/Design/python at work and home.xmind" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-639705766">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.6" value="3" />
-          <entry key="project.opened" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages">
-        <counts>
-          <entry key="git.branch.checkout.local" value="3" />
-          <entry key="git.branch.checkout.remote" value="1" />
-          <entry key="git.branch.create.new" value="2" />
-          <entry key="git.branch.delete.local" value="1" />
-          <entry key="git.branch.delete.remote" value="1" />
-          <entry key="git.branch.rebase" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="gitignore" value="20" />
-          <entry key="py" value="102" />
-          <entry key="txt" value="22" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="42" />
-          <entry key="Python" value="102" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="csv" value="4" />
-          <entry key="gitignore" value="1" />
-          <entry key="ipynb" value="4" />
-          <entry key="py" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSV" value="4" />
-          <entry key="IPNB" value="4" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="4" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="1231654828">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="csv" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSV" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="10" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/scorecard.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ConsoleGolf/scores.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/score_history.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ConsoleGolf/score_analysis.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -153,64 +32,15 @@
       </map>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/Data/score_analysis.ipynb" />
-        <option value="$PROJECT_DIR$/Data/Scorecard.csv" />
-        <option value="$PROJECT_DIR$/Sandbox/flight_data.ipynb" />
-        <option value="$PROJECT_DIR$/Sandbox/flight _data/test_flight.ipynb" />
-        <option value="$PROJECT_DIR$/Sandbox/flight_data/test_flight.ipynb" />
-        <option value="$PROJECT_DIR$/ConsoleGolf/scores.py" />
-        <option value="$PROJECT_DIR$/ConsoleGolf/score_analysis.ipynb" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="86" />
-    <option name="y" value="102" />
-    <option name="width" value="1936" />
-    <option name="height" value="1176" />
-  </component>
+  <component name="ProjectId" id="1cK9FVyMUhDQP37MVs3Kr4LEXR4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="OutofBounds" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OutofBounds" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OutofBounds" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OutofBounds" type="462c0819:PsiDirectoryNode" />
-              <item name="ConsoleGolf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OutofBounds" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OutofBounds" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OutofBounds" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OutofBounds" type="462c0819:PsiDirectoryNode" />
-              <item name="Design" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ds-learn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EoPIiP" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -223,19 +53,7 @@
       <recent name="C:\Users\cpaul\Documents\GitHub\OutofBounds\Sandbox" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Jupyter Notebook.OutofBounds">
+  <component name="RunManager" selected="Python.scores">
     <configuration name="OutofBounds" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="OutofBounds" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -291,7 +109,6 @@
       <option name="ipnbPort" value="8888" />
     </configuration>
     <list>
-      <item itemvalue="Jupyter Notebook.OutofBounds" />
       <item itemvalue="Python.scores" />
     </list>
     <recent_temporary>
@@ -301,6 +118,18 @@
         <item itemvalue="Python.scores" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -337,29 +166,6 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.103793465" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.385214" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.15697037" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32879376" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32821077" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
       <list>
@@ -370,16 +176,66 @@
       </list>
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="getting there with data frames" />
     <MESSAGE value="testing rebasing" />
     <option name="LAST_COMMIT_MESSAGE" value="testing rebasing" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="169" key="FileChooserDialogImpl" timestamp="1590270577520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="169" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590270577520" />
+    <state width="1515" height="239" key="GridCell.Tab.0.bottom" timestamp="1590268408501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590268408501" />
+    <state width="1515" height="239" key="GridCell.Tab.0.center" timestamp="1590268408501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590268408501" />
+    <state width="1515" height="239" key="GridCell.Tab.0.left" timestamp="1590268408500">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590268408500" />
+    <state width="1515" height="239" key="GridCell.Tab.0.right" timestamp="1590268408501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590268408501" />
+    <state width="1515" height="239" key="GridCell.Tab.1.bottom" timestamp="1590268408501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590268408501" />
+    <state width="1515" height="239" key="GridCell.Tab.1.center" timestamp="1590268408501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590268408501" />
+    <state width="1515" height="239" key="GridCell.Tab.1.left" timestamp="1590268408501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590268408501" />
+    <state width="1515" height="239" key="GridCell.Tab.1.right" timestamp="1590268408501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590268408501" />
+    <state x="279" y="56" key="SettingsEditor" timestamp="1590266532009">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590266532009" />
+    <state x="444" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1590270531014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="444" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590270531014" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ConsoleGolf/scores.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -388,57 +244,5 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py" />
-    <entry file="file://$PROJECT_DIR$/ConsoleGolf/untitled" />
-    <entry file="file://$PROJECT_DIR$/Data/score_analysis.ipynb" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="23">
-            <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sandbox/flight_data.ipynb" />
-    <entry file="file://$PROJECT_DIR$/Sandbox/flight_data/test_flight.ipynb" />
-    <entry file="file://$PROJECT_DIR$/Data/scorecard.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConsoleGolf/scores.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/score_history.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConsoleGolf/score_analysis.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
   </component>
 </project>

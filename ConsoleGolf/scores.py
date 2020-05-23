@@ -2,7 +2,7 @@ import sqlite3
 import os
 import pandas as pd
 
-home = os.path.dirname("c:/Users/cjadmin/Documents/GitHub/OutofBounds/Data/")
+home = r"c:\Users\cjadmin\Documents\GitHub\OutofBounds\Data"
 
 abs_file_path = os.path.join(home, "Scorecard.csv")
 
@@ -18,7 +18,7 @@ print("new changes from 3rd september")
 
 # cur.execute('''INSERT INTO scores(Hole, Par, Score)
 #             VALUES(?,?,?)''', (hole, par, score))
-#
+
 # cur.execute('''SELECT hole, par, score FROM scores''')
 # # one_hole = cur.fetchone()
 # # print(one_hole[2])
